@@ -1,0 +1,37 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "sale": "No restocking fee ($35 savings)",
+            "title": "M75 Sport Watch",
+            "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.",
+            "price": 320.99,
+            "img": "./imgs/slider/slider1.webp"
+        },
+        {
+            "id": 2,
+            "sale": "Big Sale Offer",
+            "title": "Get the Best Deal on CCTV Camera",
+            "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.",
+            "price": 590.00,
+            "img": "./imgs/slider/slider2.webp"
+        }
+    ],
+    
+    "banners": [
+        {
+            "id": 1,
+            "sale": "New line required",
+            "title": "iPhone 12 Pro Max",
+            "price": 259.99,
+            "img": "./imgs/banner/small_banner.webp"
+        },
+    
+        {
+            "id": 2,
+            "title": "Weekly Sale!",
+            "description": "Saving up to 50% off all online store items this week.",
+            "img": "./imgs/banner/small-banner-bg.webp"
+        }
+    ]
+}
